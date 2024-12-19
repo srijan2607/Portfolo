@@ -86,6 +86,8 @@ section {
 #projects div:hover {
   transform: scale(1.05);
   transition: 0.4s ease;
+  cursor: pointer;
+  shad
 }
 
 #projects div img {
